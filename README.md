@@ -29,6 +29,11 @@ Also, if the I2C is put into a task then the nRF24L01 seems to behave itself aga
 
 Watch the video to see more!
 
+### Hardware
+► Simple 4-way level shifter so 5v peripherals can be used with a 3v3 μController  
+![Level Shifter 4-channel (Custom)](https://user-images.githubusercontent.com/20911308/225067366-badab862-4993-4471-8a10-581b50800e8c.png)  
+https://s.click.aliexpress.com/e/_DD0d7wz  
+
 ► List of all my videos
 (Special thanks to Michael Kurt Vogel for compiling this)  
 http://bit.ly/YouTubeVideoList-RalphBacon

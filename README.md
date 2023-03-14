@@ -1,5 +1,5 @@
 # Video #262: ESP32 + WiFi + I2C + NeoPixel + nRF24L01 = DISASTER  
-How many things can go wrong with a project? Too many!  
+### How many things can go wrong with a project? Too many!  
 
 ![Thumbnail-00019 (Phone)](https://user-images.githubusercontent.com/20911308/225037315-99311e41-eca8-4c77-8011-d5f9dea47d36.png)  
 
@@ -25,4 +25,22 @@ Using an I2c device on an ESP32 which doesn't use the "default" I2C pins of 21 &
 
 Well, if the Wi-Fi was started *first*, retrieved the time from an NTP server and then shut down, all was fine.
 
-Also, if the 
+Also, if the I2C is put into a task then the nRF24L01 seems to behave itself again (or perhaps, Wire [aka I2C] does).
+
+Watch the video to see more!
+
+► List of all my videos
+(Special thanks to Michael Kurt Vogel for compiling this)  
+http://bit.ly/YouTubeVideoList-RalphBacon
+
+► If you like this video please give it a thumbs up, share it and if you're not already subscribed please consider doing so and joining me on my Arduinite (and other μControllers) journey
+
+My channel, GitHub and blog are here:  
+\------------------------------------------------------------------  
+• https://www.youtube.com/RalphBacon  
+• https://ralphbacon.blog  
+• https://github.com/RalphBacon  
+• https://buymeacoffee.com/ralphbacon  
+\------------------------------------------------------------------
+
+My ABOUT page with email address: https://www.youtube.com/c/RalphBacon/about

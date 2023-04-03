@@ -8,6 +8,8 @@
 
 [![JLCPCB Any colour including purple](https://user-images.githubusercontent.com/20911308/223475598-b2e00f51-f634-4802-a6c1-336b02c748d6.jpg "JLCPCB 1-8 Layer PCB at $2. PCBA from $0 (Free Setup, Free Stencil)
 Sign Up Here to Get $54 New User Coupons")](https://jlcpcb.com/?from=SKL)  
+JLCPCB 1-8 Layer PCB at $2. PCBA from $0 (Free Setup, Free Stencil)  
+Sign Up Here to Get $54 New User Coupons at -  https://jlcpcb.com/?from=SKL  
 
 #### Long story short
 I modified my ESP32 NeoPixel project (yes, the three circular LED rings that tell me if I have left the storage container bin lids open) to connect to Wi-Fi to get the time. If it is overnight, blank the LED display to "save power". Simples.
